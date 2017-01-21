@@ -3,7 +3,7 @@
  * @file
  * mcstat.inc library for reporting memcache daemon statistics
  *
- * @requires PHP CLI 5.2 or newer.
+ * @requires PHP CLI 5.6 or newer.
  *
  * Copyright 2011 Jonathan W. Webb
  *
